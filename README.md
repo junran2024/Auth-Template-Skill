@@ -4,7 +4,12 @@ Start from an empty folder — this skill generates a complete authentication so
 
 ## Quick Start
 
-### 1. Environment Setup
+### 1. Use AI
+
+Copy and paste the following prompt to your AI assistant:
+> Build an authentication system with UI, toast notifications, database and route protection.
+
+### 2. Environment Setup
 
 ```env
 # Auth - Required
@@ -22,11 +27,6 @@ GOOGLE_CLIENT_SECRET=<Google OAuth Client Secret>
 # Resend (for password reset emails)
 RESEND_API_KEY=<Resend API Key>
 ```
-
-### 2. Use AI
-
-Copy and paste the following prompt to your AI assistant:
-> Build an authentication system with UI, toast notifications, database and route protection.
 
 ### 3. Start the App
 
