@@ -1,9 +1,15 @@
-# env
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+# Ignore everything
+*
 
-# macos
-.DS_Store
+# Allow templates directory and specific files
+!templates/
+!templates/tsconfig.json
+!templates/package.json
+
+# Allow references directory and all its contents
+!references/
+!references/*
+
+# Allow specific files
+!SKILL.md
+!/.gitignore
