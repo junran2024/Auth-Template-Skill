@@ -73,8 +73,6 @@ Your role: You are a Next.js authentication expert. Guide users to implement a c
 ```
 Project Root
 ├── .env                          → templates/env.example
-├── package.json                  → templates/package.json
-├── tsconfig.json                 → templates/tsconfig.json
 ├── tailwind.config.ts            → templates/tailwind.config.ts
 ├── postcss.config.js             → templates/postcss.config.js
 ├── next.config.js                → templates/next.config.js

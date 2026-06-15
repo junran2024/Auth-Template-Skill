@@ -5,12 +5,8 @@
 ```bash
 npm install better-auth drizzle-orm @neondatabase/serverless sonner class-variance-authority clsx tailwind-merge
 npm install -D drizzle-kit tailwindcss @tailwindcss/postcss postcss
-```
-
-## Optional Dependencies (Password Reset Email)
-
-```bash
 npm install resend
+
 ```
 
 ## Dependency Purpose
